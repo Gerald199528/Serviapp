@@ -1,0 +1,11 @@
+.nav-lateral{
+	width: 300px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	transition: all .2s ease-in-out;
+	background-image: url('matrix\assets\images/nav-font.jpg');
+	background-position: center center;
+	background-size: cover;
+}
