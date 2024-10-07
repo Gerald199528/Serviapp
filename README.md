@@ -14,5 +14,5 @@ Ejecuta los siguientes comandos en tu consola (Git Bash, CMD, etc.):
 #npm install,
 #composer install,
 #php artisan key:generate,
-#php artisan migrate o  #php artisan migrate:fresh
+Antes de migrar dirigete al archivo .env y donde dice "DB_DATABASE" remplazalo por  "DB_DATABASE=serviapp_trujillo" ya que la BD tiene como nonbre serviapp_trujillo " #php artisan migrate"
 #php artisan serve
